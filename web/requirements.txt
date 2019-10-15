@@ -1,0 +1,4 @@
+flask
+redis
+wikipedia
+requests==2.18.1
