@@ -1,4 +1,4 @@
 flask
 redis
 wikipedia
-requests==2.18.1
+requests==2.20.0
